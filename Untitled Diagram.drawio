@@ -1,1 +1,58 @@
-<mxfile host="www.draw.io" modified="2020-02-13T23:00:39.425Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko/20100101 Firefox/73.0" version="12.7.0" etag="0wm75IamepEDQQfyONvx" type="github"><diagram id="MLObH_5gLeCTJBgwgLdl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-13T23:05:02.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko/20100101 Firefox/73.0" etag="RtXJlN5yQnz_Xxf4-54e" version="12.7.0" type="github">
+  <diagram id="MLObH_5gLeCTJBgwgLdl" name="Page-1">
+    <mxGraphModel dx="1113" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-1" value="Mac XCode&lt;br&gt;&lt;div&gt;to develop App&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="180" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-3" value="Optional: CI/CD server to build app for distribution" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="180" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-4" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlswTCrfdpLxMbIjayh6-1" target="nlswTCrfdpLxMbIjayh6-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint"/>
+            <mxPoint x="360" y="180" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-5" value="Mobile Device Management (MDM) to distribute privately" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="180" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nlswTCrfdpLxMbIjayh6-3" target="nlswTCrfdpLxMbIjayh6-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="390" as="sourcePoint"/>
+            <mxPoint x="350" y="340" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-7" value="iOS Device" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-8" value="iOS Device" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-9" value="iOS Device" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="90" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-10" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlswTCrfdpLxMbIjayh6-5" target="nlswTCrfdpLxMbIjayh6-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="550" as="sourcePoint"/>
+            <mxPoint x="470" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-11" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlswTCrfdpLxMbIjayh6-5" target="nlswTCrfdpLxMbIjayh6-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint"/>
+            <mxPoint x="470" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-12" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nlswTCrfdpLxMbIjayh6-5" target="nlswTCrfdpLxMbIjayh6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="480" as="sourcePoint"/>
+            <mxPoint x="900" y="430" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
