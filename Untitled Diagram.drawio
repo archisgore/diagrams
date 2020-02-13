@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T23:05:02.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko/20100101 Firefox/73.0" etag="RtXJlN5yQnz_Xxf4-54e" version="12.7.0" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T23:06:43.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:73.0) Gecko/20100101 Firefox/73.0" etag="UiyLBmPnLSk1UNNuuqBl" version="12.7.0" type="github">
   <diagram id="MLObH_5gLeCTJBgwgLdl" name="Page-1">
     <mxGraphModel dx="1113" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
             <mxPoint x="850" y="480" as="sourcePoint"/>
             <mxPoint x="900" y="430" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-15" value="&lt;div&gt;Polyverse can integrate here&lt;/div&gt;&lt;div&gt;and everytime you need a &lt;br&gt;&lt;/div&gt;&lt;div&gt;scramble, just recompile here.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="65" width="180" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="nlswTCrfdpLxMbIjayh6-16" value="&lt;div&gt;Polyverse can integrate here&lt;/div&gt;&lt;div&gt;and everytime you need a&lt;/div&gt;&lt;div&gt;scramble, trigger a build&lt;/div&gt;&lt;div&gt;whether there&#39;s a code-change or not&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="65" width="210" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
