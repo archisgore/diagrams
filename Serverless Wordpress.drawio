@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2020-05-15T21:55:20.730Z" agent="5.0 (Macintosh)" etag="JRfJbEAjH1dbPhRKpjDs" version="13.1.1" type="github"><diagram id="rc0wAbn-FcEUS4i0uJqS" name="Page-1">7Vlbb+MoFP41eWzkS5zLY5M2s9K0Unezo9l9GhFDHLbEeDFunPn1c7DBN5y0GSVzkapKLXwc4PCdjwOmA3+xyz8IlGwfOSZs4Dk4H/h3A8+bjcbwWwGHEhgHbglEguIScmpgRb+SEnQNmlFMUo2VkOScSZq0wZDHMQllC0NC8H3bbMMZbgEJiogFrELEbPQzxXJbotPAqfE/CI22ZmbX0S07ZIw1kG4R5vsG5N8P/IXgXJalXb4gTHHX5mV5pLVyTJBYvqVD/OWTt83QY5Amk8l/7l/z+5vVjR7lBbFML/h+udL+yoMhAVxPVBEjiVLJBZTn+y2VZJWgUDXsIfaAbeWOQc2Foh6XCEnyow67FQ0gH8J3RIoDmOgOI6MBLR1vOhkGJbKvQ+GOtNW2EYaJtkM6+lE1eE0QFDRHZ/DlWXwNvDGDWeeYvrRIG/+fqcjO1zy/SelXGkcD/xYs1lxgIm4AhkpBlFmNai3kE1QtaxQ+R4JnMS6bB55PRuqnskgQxtXYXpLXE0MpUn9vM8EFuoP68vGw+vPBOLwWxsIgYFGsoo1KtIYl9S3tuN8bHku1aqJbya7plxMC0ylIp3C8MaBjWVXLa1h59horX9ccEk0XtBYqsUGePjYWX8O24R7ClgiSpiftFWjPdmL+5Uf3jQ6ovbdGKbns/CfFcMqdMzv2OqbAvoApvBSdwTv5SKUVCjn6ltEoBkhylX2QrjGyUb04WG1YkXE3VO3yC6cn1++mJ8dOTtOe5DRzrpScfDuZLyCZL5dIREiqPbxgWSqJsAh9JZmb/L/LI3XID0GHNByGjGf4iyhO3Xl/SC5Bs9OmuaK9QXPg9NDsetfieXz6ENCZhbNDGgqaSIKLzH1e1m1An3tSz+kef6P0WaXdt096ZIM9oDVhTzylknIV1R3FWNlY4a4aXlWN1ovakgvOuIDQ38U8Vn1TKfhzdc0qhijvg8WxQmNcSiaACus4FkIT6LpOAhVwCQmOg7YEJz073e27hlxLgZPfRIHeuwIvokB/5vxiCpz2KLATQhLjW/UFprhgKAXqC4aRkDbcCBrJqfwHys4w0LV/VU2X7/Jm5aAr5dwEW99yHYLBP56JkLx+wwc3IyJfOwTsgLVOJTseBhOEIUlf2u72BUnP8MQpLKT+NOocin43zuUyda/mR2F3oKAzUPfQLHmwBio0Uy37+2U0+6VkBGIRh7KT68wMoPq5Q8cdGaDuXNRavZ+IoECK2vg/S5mTd2VeQJkmm15Vmm5Lm0MnOC1PqHT11ZDstCNYb/aTBWve695T6Q8RrP2WdzHBNvJi0FSZkey5Iqt3wGg8amyBSrVn7YELSnbyRskeua69S/Y8ydrPqQ8cqY8VuEWjOOx5qSgeQwnWwrz+I/S0zZBn37uDvgfo8fn3bqjW/wwoGa7/o+LffwM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-23T17:23:42.379Z" agent="5.0 (Macintosh)" etag="9R5Mijjrvo-8ozIBOL9v" version="13.1.3" type="github">
+  <diagram id="rc0wAbn-FcEUS4i0uJqS" name="Page-1">
+    <mxGraphModel dx="946" dy="1751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n_U2huaM5sp77j1RBE-S-1" value="EFS" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="287.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-2" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;AuroraDB/MySQL&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;wordpress&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;database&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="280" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-3" value="ECS/Fargate Cluster" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_rect;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="100" y="130" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-6" value="&lt;div&gt;Polyscripted &lt;br&gt;&lt;/div&gt;&lt;div&gt;Wordpress&lt;/div&gt;&lt;div&gt;Task 1&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="165" y="170" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-7" value="&lt;div&gt;Polyscripted &lt;br&gt;&lt;/div&gt;&lt;div&gt;Wordpress&lt;/div&gt;&lt;div&gt;Task 2&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="170" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="n_U2huaM5sp77j1RBE-S-2" target="n_U2huaM5sp77j1RBE-S-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-9" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.109;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="n_U2huaM5sp77j1RBE-S-2" target="n_U2huaM5sp77j1RBE-S-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-10" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.15;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.8;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="n_U2huaM5sp77j1RBE-S-1" target="n_U2huaM5sp77j1RBE-S-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-11" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.15;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.464;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="n_U2huaM5sp77j1RBE-S-7" target="n_U2huaM5sp77j1RBE-S-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="370" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n_U2huaM5sp77j1RBE-S-12" value="Load Balancer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="20" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mRZEcYof9R6NlYYb4sAF-1" value="&lt;div&gt;CloudWatch Synthetics&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="-126" width="218" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="mRZEcYof9R6NlYYb4sAF-2" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.181;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mRZEcYof9R6NlYYb4sAF-1" target="n_U2huaM5sp77j1RBE-S-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="152" as="sourcePoint" />
+            <mxPoint x="462" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRZEcYof9R6NlYYb4sAF-3" value="/wp-cron.php" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mRZEcYof9R6NlYYb4sAF-2">
+          <mxGeometry x="-0.4074" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
